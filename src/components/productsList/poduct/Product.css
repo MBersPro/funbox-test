@@ -1,0 +1,7 @@
+.product{
+    background:linear-gradient(135deg, transparent 15px, rgb(255, 255, 255) 0);
+    padding: 50px;
+    box-sizing: border-box;
+    border: 4px solid #1698D9 linear-gradient(135deg, transparent 15px, rgb(255, 255, 255) 0);
+    border-radius: 12px;
+}
